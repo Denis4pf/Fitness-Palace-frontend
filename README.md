@@ -1,7 +1,7 @@
 # Fitness Palace
 
 #### By:
-> David Ondiege, Collince Owinoh, Mercy Maruga, Rugut Cherono, Lynette Ronnoh, Winston Langat, Benson Odongo, Denis Omwong'a & Said Soud Omar
+> David Ondiege, Collince Owinoh, Mercy Maruga, Rugut Cherono, Lynette Ronnoh, Winston Langat, Benson Odongo, Denis Orina & Said Soud Omar
 
 Fitness Palace is a web application that allows users book gym appointments with their preferred gym instructors according to their schedule from the comfort of your device. Users will be allowed to register and sign in after which they can view available workouts and instructors, view pricing packages, and book an appointment with a trainer and a workout of their choice. User can  also leave a review after the gym session.
 To get started with the project, you will be required to clone this repository. Clone it here
