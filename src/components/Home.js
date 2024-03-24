@@ -11,7 +11,7 @@ function Home() {
           <img src={bannerimg} alt='Banner' />
         </div>
         <div className='home-banner-content'>
-          <h1>THE BEST FITNESS STUDIO IN TOWN</h1>
+          <h1>THE BEST FITNESS STUDIO IN TOWN...</h1>
           <p>
             Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptates
             excepturi ratione harum placeat sint, adipisci eaque tenetur fuga
